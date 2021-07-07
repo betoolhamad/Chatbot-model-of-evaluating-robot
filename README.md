@@ -40,7 +40,7 @@ by run :
 **Now our enviroment is ready!**
 
 <h3> training : </h3>  
-After we write our code, it's time to train our bot. We will use the data that we write ourselves in the JSON file.   
+After we write our code which is attached above, it's time to train our bot. We will use the data that we write ourselves in the JSON file.   
 This is the format of JSON file which i was created.
 
 <img width="700" alt="2021-07-08 (5)" src="https://user-images.githubusercontent.com/43522153/124837754-28ee7b80-df8e-11eb-9480-4b4345f6e9dd.png">
