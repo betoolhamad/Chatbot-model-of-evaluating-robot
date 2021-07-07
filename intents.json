@@ -31,7 +31,7 @@
            },
 
     {"tag": "evalute",
-            "patterns": ["Very good", "So beautiful", "its Good"],
+            "patterns": ["Very good", "So beautiful", "its Good" , "Bad"],
             "responses": ["Ok , Thank you" ],
             "context_set": ""
     }
