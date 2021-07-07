@@ -1,7 +1,7 @@
 # Chatbot model of evaluating robot
 This chatbot is made to make people evaluating. I have trained the bot to be able to respond to people's questions which is related to the evaluation and interact with them using python language.
 
-<h3> Prerequisites : </h3>   
+# Prerequisites :   
  Python and any sourse code editor. I'm using Visual Studio Code and i use (miniconda) prompt in windows to install pakages and run the script.    
  
  So, before starting to work on our chatbot we need to download a few python packages in our enviroment. 
@@ -39,7 +39,7 @@ by run :
 
 **Now our enviroment is ready!**
 
-<h3> training : </h3>  
+# Training: 
 After we write our code which is attached above, it's time to train our bot. We will use the data that we write ourselves in the JSON file.   
 This is the format of JSON file which i was created.
 
@@ -53,6 +53,9 @@ This is the result when I talked with the robot I called it Bandi :)
 
 
 
+
+
+https://user-images.githubusercontent.com/43522153/124840922-b503a180-df94-11eb-8046-35a26c720bed.mp4
 
 
 
