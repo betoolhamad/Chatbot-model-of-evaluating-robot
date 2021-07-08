@@ -49,7 +49,7 @@ This is the result when I talked with the robot I called it Bandi :)
 
 
 
-**Note: I faced a problem when I was writen the JSON file, when I add or remove tags from the JSON file and rerun the program, it doesn't seem to change any of the responses. After looking, I found the way to fix this problem, which is to delete the data.pickle file, (it is directly created when I write in a JSON file)
+**Note: I faced a problem when I was writen the JSON file, when I add or remove tags from the JSON file and rerun the program, it doesn't seem to change any of the responses. After looking, I found the way to fix this problem, which is to delete the data.pickle file, (it is directly created when I write in a JSON file)**
 
 
 
