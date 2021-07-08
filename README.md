@@ -1,3 +1,6 @@
+
+
+
 # Chatbot model of evaluating robot
 This chatbot is made to make people evaluating. I have trained the bot to be able to respond to people's questions which is related to the evaluation and interact with them using python language.
 
@@ -52,13 +55,7 @@ This is the result when I talked with the robot I called it Bandi :)
 **Note: I faced a problem when I was writen the JSON file, when I add or remove tags from the JSON file and rerun the program, it doesn't seem to change any of the responses. After looking, I found the way to fix this problem, which is to delete the data.pickle file, (it is directly created when I write in a JSON file)**
 
 
-
-
-https://user-images.githubusercontent.com/43522153/124895563-5286c180-dfe5-11eb-89a6-b90844d8388f.mp4
-
-
-
-
+https://user-images.githubusercontent.com/43522153/124925943-aacdbb80-e005-11eb-8bc8-1fe6aeb62cc1.mp4
 
 
 
