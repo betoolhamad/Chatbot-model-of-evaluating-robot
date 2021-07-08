@@ -54,8 +54,7 @@ This is the result when I talked with the robot I called it Bandi :)
 
 
 
-
-https://user-images.githubusercontent.com/43522153/124840922-b503a180-df94-11eb-8046-35a26c720bed.mp4
+https://user-images.githubusercontent.com/43522153/124895563-5286c180-dfe5-11eb-89a6-b90844d8388f.mp4
 
 
 
