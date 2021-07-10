@@ -34,7 +34,6 @@ Now we will simply use pip to install the following:
 - numpy
 - tensorflow  
 - tflearn  
-- 
 by run :
  ``` 
  pip install -r Requirements.txt 
